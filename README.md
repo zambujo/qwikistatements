@@ -10,4 +10,4 @@ With *QwikiStatements* will provide the means to streamline the enrichment of Wi
 *QwikiStatements* aims to streamline the enrichment of Wikidata by parsing and linking data from [ORCID](https://orcid.org/) and [CrossRef](https://search.crossref.org/), using R and/or Python to bridge in the gap between an [ORCID](https://orcid.org/) profile and [QuickStatments](https://tools.wmflabs.org/quickstatements/).
 
 
-_This project is part of the OpenCon 2017 Do-A-Thon [here](https://github.com/sparcopen/doathon/issues/49).
+_This project is part of the OpenCon 2017 Do-A-Thon [here](https://github.com/sparcopen/doathon/issues/49)._
