@@ -11,3 +11,6 @@ With *QwikiStatements* will provide the means to streamline the enrichment of Wi
 
 
 _This project is part of the OpenCon 2017 Do-A-Thon [here](https://github.com/sparcopen/doathon/issues/49)._
+
+
+![License: MIT](https://img.shields.io/github/license/mashape/apistatus.svg)
